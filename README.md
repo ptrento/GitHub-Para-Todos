@@ -1,15 +1,9 @@
-# Modificame
+#MI PRIMER GITHUB desde acercadelaeducacion
 
-Este es un primer texto para *modificar*, **cambiar** y jugar.
+_Que buena esta herramienta, me va a permitir enlances a mi blogs, a imágenes y videos_
+> seguramente se puede mejorar con el correr del tiempo.
+***
 
-> Es nuestro arenero personal
 
-Pueden:
-
-- Borrarme
-- Modificarme
-- Dejarme como está y agregar nuevas carpetas
-- [Desde acá me "copian"](https://github.com/acercadelaeducacion/GitHub-Para-Todos/fork)
-
-![beemo](http://media.giphy.com/media/Uoyf084JYOblK/giphy.gif "Este texto aparece cuando el mouse está sobre la imagen")
+![beemo](http://3.bp.blogspot.com/-zf6EvEFpEpU/Un6fLGfr66I/AAAAAAAAAkY/-m07A5m1_Vs/s1600/giphy.gif)
 
